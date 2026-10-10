@@ -1,0 +1,9 @@
+{
+  "_comment": "Settings → About card in the Locally app. Fetched at runtime (6h cache), so copy can change WITHOUT shipping a build. Data only — every field renders as escaped text. Unknown fields are ignored; malformed input falls back to the app's built-in defaults. URLs must be https.",
+  "plan": {
+    "label": "Local",
+    "blurb": "Your AI team runs on your own computer, on the ChatGPT or Claude plan you already have. Your data stays with you."
+  },
+  "sponsor": null,
+  "notice": null
+}
